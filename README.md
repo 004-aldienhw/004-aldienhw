@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">My name is Aldien H.W. I like nature as you can see. And I always like to photograph something. I'd like to explore and learning new things. I'm interested about Philosophy too, want to know how this world works and why.</p>
+<p align="center">My name is Aldien H.W. I like nature as you can see. And I always like to photograph something. I'd like to explore and learning new things. I'm interested about Philosophy too. I like to know and discover what life is and what it means.</p>
 
 ###
 
