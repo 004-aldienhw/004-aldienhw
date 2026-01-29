@@ -60,10 +60,10 @@
 ###
 
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=004-aldienhw&theme=nord_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=004-aldienhw&theme=tokyonight" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=004-aldienhw&theme=nord_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=004-aldienhw&theme=nord_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=004-aldienhw&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=004-aldienhw&theme=tokyonight" />
 </div>
 
 ###
